@@ -176,7 +176,7 @@ export default function CartPage() {
                   <tr>
                     <td></td>
                     <td></td>
-                    <td>${total}</td>
+                    <td>₱{total}</td>
                   </tr>
                 </tbody>
               </Table>
